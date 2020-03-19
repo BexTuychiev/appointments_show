@@ -4,6 +4,8 @@ This project analizes appointments dataset (official source - [Kaggle](https://w
 
 > Note that the original dataset on kaggle represents column names in Portuguese
 
+
+
 # Installation
 >Note: Make sure there is **Python 3.x** installed on local machine
 
